@@ -1,0 +1,70 @@
+
+
+body {
+    background:  linear-gradient(68.15deg, #581919 16.62%, red 85.61%);
+    
+}
+.calculator {
+    width: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    padding: 10px;
+    background-color: #000807;
+}
+
+table td {
+    display: inline-block;
+}
+
+.btn {
+    margin: 3px;
+    width: 50px;
+    height: 40px;
+    cursor: pointer;
+    border: none;
+    background-color: #210c0c;
+    color: #dfdfdf;
+    font-size: 16px;
+    transition: all 500ms ease-in-out;
+}
+
+.btn:hover {
+    background-color: #3b1616;
+}
+
+.ac {
+    background-color: #721b1b;
+}
+
+.ac:hover {
+    background-color: #8f2222;
+}
+
+.especial {
+    background-color: #8f2222;
+}
+
+.especial:hover {
+    background-color: #6b1818;
+}
+
+.igual {
+    background-color: #721b1b;
+}
+
+.igual:hover {
+    background-color: #962525;
+
+}
+
+.result {
+    height: 100px;
+    color: #dfdfdf;
+    text-align: right;
+    font-size: 35px;
+    word-wrap: break-word;
+    border-bottom: 1px solid #962525;
+}
