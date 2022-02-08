@@ -9,4 +9,5 @@ SKILLS
 * CSS
 
 Projetos
-* Landing Page foi um desafio da Rafaella Ballerini com tema de Bot.
+* Landing Page: desafio da Rafaella Ballerini com tema de Bot.
+* Calculadora: Projeto para praticar HTML CSS JS
